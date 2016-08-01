@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Lauri Elias -- Developer -- @LauriElias
+
+# THANKS
+    Thanks to Django
+
+# TECHNOLOGY COLOPHON
+    Ubuntu 16.04
+    Django
+    Django REST Framework
+    PostgreSQL
